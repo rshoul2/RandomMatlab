@@ -5,3 +5,6 @@ A collection of MatLab programs from my past.
   LSU. They are different programs and algoritms for solving different equations
   such as different decompositions and some matrix math. If you are curious to
   what these may do individually you can contact me at rshoul2@gmail.com.
+
+- You will need MatLab to use these programs in any sort of way but any text
+  editor will be able to open them and view their contents.
